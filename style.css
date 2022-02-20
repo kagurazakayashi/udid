@@ -1,0 +1,35 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #f2f1f6;
+}
+a {
+  text-decoration: none;
+}
+.group {
+  margin-left: 25px;
+  margin-right: 25px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.groupTitle {
+  margin-left: 40px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.item {
+  padding: 15px;
+}
+hr {
+  border: none;
+  border-top: 1px solid #c6c6c8;
+}
+.key {
+  font-size: 12px;
+  color: gray;
+}
+.val {
+  font-size: 15px;
+  color: #000;
+}
