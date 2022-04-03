@@ -12,6 +12,8 @@ a {
   margin-right: 25px;
   background-color: #fff;
   border-radius: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 .groupTitle {
   margin-left: 40px;
